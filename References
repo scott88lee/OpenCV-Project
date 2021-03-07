@@ -1,0 +1,10 @@
+https://www.kaggle.com/luizfernandogontijo/image-processing/data
+https://www.kaggle.com/prayankkul/introduction-to-opencv-for-image-processing/data
+
+http://www.github.com/opencv/opencv/data
+
+Anaconda
+Switch enviroments
+
+cv2.cv2 has no face atttribute: Soln
+pip install opencv-contrib-python --upgrade

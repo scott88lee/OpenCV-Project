@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+.DS_Store
+
+# Training images
+*.jpg
+*.jpeg
 
 # Distribution / packaging
 .Python
