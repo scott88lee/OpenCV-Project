@@ -8,3 +8,6 @@ Switch enviroments
 
 cv2.cv2 has no face atttribute: Soln
 pip install opencv-contrib-python --upgrade
+
+Abort trap 6:
+https://stackoverflow.com/questions/52705643/abort-trap-6-when-attempting-opencv-video-capture-on-macos-mojave
