@@ -11,3 +11,12 @@ pip install opencv-contrib-python --upgrade
 
 Abort trap 6:
 https://stackoverflow.com/questions/52705643/abort-trap-6-when-attempting-opencv-video-capture-on-macos-mojave
+
+
+M1 Mac
+https://blog.roboflow.com/m1-opencv/
+
+Create /image/1 folder
+Create /capture folder
+
+run Vidimport
